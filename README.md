@@ -1,4 +1,3 @@
-### `README.md`
 
 # Multi-Model Translation Tool
 

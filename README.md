@@ -50,14 +50,14 @@ pip install streamlit transformers libretranslatepy
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/PratikMitkar/codealpha_tasks_1.git
+cd codealpha_tasks_1
 ```
 
 ### 2. Run the Program
 Start the Streamlit app by running:
 ```bash
-streamlit run translator.py
+streamlit run translation_app_assignment_1.py
 ```
 
 ### 3. Translate Text
